@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Surefire suite" duration-ms="3471" started-at="2026-11-26T12:24:21 IST" finished-at="2026-11-26T12:24:24 IST">
+  <suite name="Surefire suite" duration-ms="5511" started-at="2026-11-26T15:32:39 IST" finished-at="2026-11-26T15:32:45 IST">
     <groups>
     </groups>
-    <test name="Surefire test" duration-ms="3471" started-at="2026-11-26T12:24:21 IST" finished-at="2026-11-26T12:24:24 IST">
-      <class name="FirstSeleniumTest">
-        <test-method status="PASS" signature="browserCommands()[pri:0, instance:FirstSeleniumTest@15d0c81b]" name="browserCommands" duration-ms="3448" started-at="2026-11-26T12:24:21 IST" finished-at="2026-11-26T12:24:24 IST">
+    <test name="Surefire test" duration-ms="5511" started-at="2026-11-26T15:32:39 IST" finished-at="2026-11-26T15:32:45 IST">
+      <class name="LocatorCssSelectorTest">
+        <test-method status="PASS" signature="locateByCssSelector()[pri:0, instance:LocatorCssSelectorTest@15d0c81b]" name="locateByCssSelector" duration-ms="5481" started-at="2026-11-26T15:32:39 IST" finished-at="2026-11-26T15:32:45 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- browserCommands -->
-      </class> <!-- FirstSeleniumTest -->
+        </test-method> <!-- locateByCssSelector -->
+      </class> <!-- LocatorCssSelectorTest -->
     </test> <!-- Surefire test -->
   </suite> <!-- Surefire suite -->
 </testng-results>
